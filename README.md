@@ -1,6 +1,6 @@
 # C-Practice-Set-1
 5 Question for C
-The Four Questions are-
+The Five Questions are
 1> Calculate the area of a circle by taking user input
 2> Calulate the Simple Interest 
 3> Calculate Rectangle's Area by user input
