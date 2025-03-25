@@ -1,5 +1,5 @@
-# C-Practice-Set-1
-5 Question for C
+# C-Practice-Set-
+Questions for C
 The Five Questions are
 1> Calculate the area of a circle by taking user input
 2> Calulate the Simple Interest 
