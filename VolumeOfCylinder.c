@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #include <stdio.h>
 // volume of cylinder
 int main()
@@ -10,17 +10,4 @@ int main()
     scanf("%d", &h);
     printf("The volume of the cylinder is %f", 3.14 * r * r * h);
     return 0;
-=======
-#include <stdio.h>
-// volume of cylinder
-int main()
-{
-    int r, h;
-    printf("The radius of the cylinder is: ");
-    scanf("%d", &r);
-    printf("The height of the cylinder is: ");
-    scanf("%d", &h);
-    printf("The volume of the cylinder is %f", 3.14 * r * r * h);
-    return 0;
->>>>>>> e1eff58dc7b97a45aacfc193aee39f7b7935f893
 }

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 #include <string.h>
 
@@ -30,20 +29,3 @@ int main()
 
     return 0;
 }
-=======
-#include <stdio.h>
-#include <string.h>
-// Encrypt your message
-int main()
-{
-    char str[] = "uijt"; // enter your encrypted text
-
-    for (int i = 0; i < strlen(str); i++)
-    {
-        str[i] = str[i] - 1;
-    }
-
-    printf("%s", str);
-    return 0;
-}
->>>>>>> e1eff58dc7b97a45aacfc193aee39f7b7935f893
